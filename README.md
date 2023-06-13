@@ -44,7 +44,7 @@ void loop() {
 
 ## Primeri
 
-Uključeni su i primeri koji demonstriraju različite funkcionalnosti biblioteke. Možete ih pronaći u wikistranici(#https://github.com/rasho/RTCDS3231/wiki/Primeri-koda)
+Uključeni su i primeri koji demonstriraju različite funkcionalnosti biblioteke. Možete ih pronaći na [wikistranici](https://github.com/rasho/RTCDS3231/wiki/Primeri-koda)
 
 ## Autori
 
